@@ -8,7 +8,7 @@ def load_pdf():
     """
     Load pdf file and return the extracted text
     """
-    file_path = "Final Report on Guidelines on revised ML TF Risk Factors.pdf"
+    file_path = "/Users/user/hannahsophieMWB/Final Report on Guidelines on revised ML TF Risk Factors.pdf"
     # Get the total number of pages
     with pdfplumber.open(file_path) as pdf:
         totalpages = len(pdf.pages)
