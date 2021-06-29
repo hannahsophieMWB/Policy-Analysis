@@ -1,0 +1,6 @@
+PyPDF2
+pandas
+pdfplumber
+tabula-py
+tabula
+jupyterlab
