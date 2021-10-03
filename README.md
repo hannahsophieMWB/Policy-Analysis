@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hannahsophieMWB
-- 👀 I’m interested in Data Science, Women and Economic Empowerment as well as Finance
-- 🌱 I’m currently learning Data Science and scrapping PDFs
+- 👋 Hi, I’m @hannahsophie_bec
+- 👀 I’m interested in Data Science, Tech & Wellbeing, Women Empowerment & Finance
+- 🌱 I’m currently enhancing my Data Science skills to build better risk models 
 - 💞️ I’m looking to collaborate on a financial inclusion project  
 - 📫 How to reach me:
 
